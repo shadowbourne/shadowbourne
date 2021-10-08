@@ -123,9 +123,11 @@ If you would like to find out anything more (or less, as this page is quite deta
 
     * Networks and Systems: 88 
         * Cyber Security: 96
+            > For this assignment, we were given a sandbox Linux Virtual Machine of a fake company with ~25 assorted vulnerabilities. We had to find, analyze and mitigate up to 18 of these vulnerabilities. This was an incredibly creative and amazing coursework, which I I'm very grateful to Dr Chris G. Willcocks for creating.
+           
         * Compiler Design - [first-order-logic-parser](https://github.com/shadowbourne/first-order-logic-parser): 97
             > ![CD5](https://user-images.githubusercontent.com/18665030/136603337-ce7a0f6a-4aad-4436-ab1a-f088d3dd5d94.gif)
-
+            > This demo shows the Python script first reading in a file of symbols and first-order logic, then generating a formal grammar of terminal/non-terminal symbols and production rules, and finally attempting to parse the inputted logic output (giving detailed logs if the formula was incorrect, or producing a full parse tree if it was correct). **Note:** In this demo, the parse tree output is actually shown before the logs and grammar.
 
         * Distributed Systems: 70
         * Networks - [socket-level-message-board](https://github.com/shadowbourne/socket-level-message-board): 91
@@ -142,7 +144,12 @@ If you would like to find out anything more (or less, as this page is quite deta
         * Modeling with Graphs: 100
         * Bioinformatics: 96
     * Computer Systems: 77
-        * Little Man Computer - Assembly/Machine Code : 71
+        * Little Man Computer : 71 [Assembly/Machine Code]
+            > ![CS-demo1](https://user-images.githubusercontent.com/18665030/136614083-87eb5ad9-9cff-41c6-bfde-1d50ce7ed109.gif)
+            > 
+            > This demo shows a 99 mailbox assembly code designed to convert an input integer from any input base to any given output base (this was one of my favorite courseworks ever!).
+            > Specifically, this demo shows the "CPU" converting the number 343 from base 10 to base 5 (with output 443). **Note:** there is a lot of computation cut out of this gif!
+
 * Mathematics (66% of year):
     * Linear Algebra: 85
     * Calculus and Probability: 75
@@ -183,7 +190,8 @@ If you would like to find out anything more (or less, as this page is quite deta
         * A* in Physics (244/270 UMS, with an A* boundary of 219/270).
 
     * Standalone Qualifications:
-        - "Gold with Distinction" for my "Independent Study" paper on Special Relativity (Norwich School's equivalent of a more in-depth EPQ).
+        - "Gold with Distinction" for [my "Independent Study" paper on Special Relativity](https://1drv.ms/w/s!And5t2efjgglj29Ia4i4Ch_dBD5n?e=amYSah) (Norwich School's equivalent of a more in-depth EPQ).
+            - A paper on Special Relativity, which I submitted for the Independent Study Program ran by Norwich School. The paper explores the many ways it is/could be either possible or impossible to travel faster than "the speed of light", that being either c, when propagating through a vacuum, or some fraction of c when light is propagating through another, optically denser medium. I received a Gold with Distinction my submission.
         - A (97/100) in OCR Additional Mathematics.
     * Activities and Societies: Young Leader and Scout at the 8th Norwich Sea Scouts. Karate, Squash, Tennis, Table tennis, School Ski Team, Running, Rugby.
 
