@@ -115,9 +115,9 @@ If you would like to find out anything more (or less, as this page is quite deta
         * AI Search - [Lin-Kernighan-TSP](https://github.com/shadowbourne/Lin-Kernighan-TSP): 97
         * Image Processing: 89 [OpenCV] 
         * Computer Graphics - [WebGL-from-scratch](https://github.com/shadowbourne/WebGL-from-scratch): 88 [WebGL]
-            > <img src="https://user-images.githubusercontent.com/18665030/136609409-b64e878c-37ee-4ddb-81cd-698e080a90d7.gif" width="250"/>
-            > <img src="https://user-images.githubusercontent.com/18665030/136609850-6f29c0f9-ea88-4de0-829a-6b6208dc7296.gif" width="250"/>
-            > <img src="https://user-images.githubusercontent.com/18665030/136610388-25332267-0c3f-4949-bb9f-df205b52a2de.gif" width="250"/>
+            > <img src="https://user-images.githubusercontent.com/18665030/136609409-b64e878c-37ee-4ddb-81cd-698e080a90d7.gif" width="200"/>
+            > <img src="https://user-images.githubusercontent.com/18665030/136609850-6f29c0f9-ea88-4de0-829a-6b6208dc7296.gif" width="200"/>
+            > <img src="https://user-images.githubusercontent.com/18665030/136610388-25332267-0c3f-4949-bb9f-df205b52a2de.gif" width="200"/>
             > 
             > **Note:** This scene was constructed entirely from scratch, using no external libraries. This includes all shaders, objects, animations, lighting, texturing etc...
 
