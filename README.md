@@ -17,7 +17,7 @@ If you would like to find out anything more (or less, as this page is quite deta
 
 <a href="https://www.linkedin.com/in/max-woolterton/"><img src="https://img.icons8.com/color/96/000000/linkedin.png"/></a>
 
-## My Technology Stack (hover over for names):
+# My Technology Stack (hover over for names):
 ### Professional:
 <center><div>
     <img src="https://img.icons8.com/color/48/000000/python.png" title="Python"/>
@@ -65,7 +65,7 @@ If you would like to find out anything more (or less, as this page is quite deta
     <img src="https://img.icons8.com/color/48/000000/blender-3d.png" title="Blender 3d"/>
 </div></center>
 
-## My University Degree:
+# My University Degree:
 ### First Year 🥇 - 1st (78/100):
 * Computer Science (33% of year):
     * Computation Thinking: 76
@@ -135,7 +135,7 @@ If you would like to find out anything more (or less, as this page is quite deta
 * Mathematics (17% of year):
     * Mathematical Finance
 
-## My Career:
+# My Career:
 > For more details on my roles, and non-software-engineering-specific experiences, see my [LinkedIn](https://www.linkedin.com/in/max-woolterton/).
 ### IBM - Jun 2021: 
 
@@ -157,7 +157,7 @@ If you would like to find out anything more (or less, as this page is quite deta
 * Machine Learning Consultant - 3 mos:
     * After having been offered a promotion towards the end of my summer of work at Lanterne, I began alongside a small team of Agile Data Scientists during my first term of 3rd year at Durham University. During this time, I was primarily applying Deep Learning to construct a Convolutional Neural Network to forecast mobile location data throughout the UK to be used in global footfall/busyness prediction models (Crowdless). For an example of the work I undertook, see my fork of [ST-ResNet-Pytorch](https://github.com/shadowbourne/ST-ResNet-Pytorch).
 
-## Prior Education:
+# Prior Education:
 * Norwich School, 2012 – 2018:
     * 6th Form Academic Scholar.
     * GCSEs: 10 A*s 1 A (with French, Spanish and Latin as languages).
