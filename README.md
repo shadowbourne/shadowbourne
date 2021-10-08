@@ -17,6 +17,20 @@ If you would like to find out anything more (or less, as this page is quite deta
 
 <a href="https://www.linkedin.com/in/max-woolterton/"><img src="https://img.icons8.com/color/96/000000/linkedin.png"/></a>
 
+## My Career:
+> For more details on my roles, and non-software-engineering-specific experiences, see my [LinkedIn](https://www.linkedin.com/in/max-woolterton/).
+### IBM:
+* Extreme Blue Intern - 3 months
+### Durham University:
+* Computer Science Demonstrator / Teaching Assistant - 2 years
+    * I run three weekly Programming Paradigms Practical groups. During these sessions I teach and assist a group of (~10) second year university students to write code in C, Java and Haskell (depending on the week/group in question).
+### Lanterne
+* Machine Learning Consultant - 3 mos
+    * After having been offered a promotion towards the end of my summer of work at Lanterne, I began alongside a small team of Agile Data Scientists during my first term of 3rd year at Durham University. During this time, I was primarily applying Deep Learning to construct a Convolutional Neural Network to forecast mobile location data throughout the UK to be used in global footfall/busyness prediction models (Crowdless). For an example of the work I undertook, see my fork of [ST-ResNet-Pytorch](https://github.com/shadowbourne/ST-ResNet-Pytorch).
+* Data Science Consultant - 5 mos
+    * Main Projects:
+        - Working on the discovery, scouting and subsequent analysis of the applicability of various data sources to be integrated into global footfall/busyness prediction models ~ 3 months.
+        - Started up and have since been managing Lanterne's open-source Opening Hours retrieval project [poi-info-scraper](https://github.com/SebasMueller/poi-info-scraper/). Subsequently built upon the open-source codebase internally to increase its global coverage drastically, by integrating it with a hybrid Bing and Yelp scraper I built, to then be integrated directly into our AWS pipeline ~ 1.5 months.
 ## My Technology Stack (hover over for names):
 ### Professional:
 <center><div>
