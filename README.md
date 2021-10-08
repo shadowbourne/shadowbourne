@@ -1,12 +1,12 @@
 # Hi there 👋 I'm Max, an aspiring Software and Machine Learning Engineer!
 
-I am currently studying Mathematics and Computer Science at Durham University under the Natural Sciences program. 
+I am currently studying Mathematics ➕ Computer Science 💻 at Durham University 🎓 under the Natural Sciences program. 
 > Within Natural Sciences, you are able to choose exactly what modules you study, from whichever faculties you choose, thereby removing many of the restrictions from "normal" degrees -
 > it is a build-your-own-degree degree and allows you to freely pursue your curiosities within your chosen fields! I would highly recommend. For example, it has allowed me to complete both a Bachelor's and a Master's level Dissertation/Project in Computer Science which normally students are not allowed to do (as it uses too many university resources)!
 
 I am in my 4th year and due to obtain my MSci (Master of Science) in Mathematics and Computer Science in August 2022!
 
-# Contents:
+## Contents:
 The remainder of this page contains extensive information on my skills, background and experience for any of those who are interested (this page also thereforeacts as a map to my GitHub repositories):
 * [The technologies I have learnt over the years 💻](#my-technology-stack-hover-over-for-names)
 * [Career Breakdown 👷‍♀️]()
@@ -17,8 +17,8 @@ If you would like to find out anything more (or less, as this page is quite deta
 
 <a href="https://www.linkedin.com/in/max-woolterton/"><img src="https://img.icons8.com/color/96/000000/linkedin.png"/></a>
 
-# My Technology Stack (hover over for names):
-## Professional:
+## My Technology Stack (hover over for names):
+### Professional:
 <center><div>
     <img src="https://img.icons8.com/color/48/000000/python.png" title="Python"/>
     <img src="https://pytorch.org/assets/images/pytorch-logo.png" width="48" title="PyTorch"/>
@@ -27,7 +27,7 @@ If you would like to find out anything more (or less, as this page is quite deta
     <img src="https://img.icons8.com/color/48/000000/apollo.png" title="Apollo GraphQL"/>
 </div></center>
 
-## Intermediate:
+### Intermediate:
 <center><div>
     <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" title="JavaScript"/>
     <img src="https://img.icons8.com/color/48/000000/nodejs.png" title="Node.js"/>
@@ -41,7 +41,7 @@ If you would like to find out anything more (or less, as this page is quite deta
     <img src="https://img.icons8.com/color/48/000000/latex.png" title="LaTeX"/>
 </div></center>
 
-## Basic:
+### Basic:
 <center><div>
     <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" title="AWS"/>
     <img src="https://avatars.githubusercontent.com/u/7284885?s=48&v=4" title="IBM Cloud">
@@ -55,7 +55,7 @@ If you would like to find out anything more (or less, as this page is quite deta
     <img src="https://img.icons8.com/fluency/48/000000/unity.png" title="Unity"/>    
 </div></center>
 
-## Graphic Design / 3D Modelling:
+### Graphic Design / 3D Modelling:
 <center><div>
     <img src="https://img.icons8.com/color/48/000000/adobe-after-effects--v2.png" title="Adobe After Effects"/>
     <img src="https://img.icons8.com/color/48/000000/adobe-photoshop--v2.png" title="Adobe Photoshop"/>
