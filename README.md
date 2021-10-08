@@ -109,6 +109,7 @@ If you would like to find out anything more (or less, as this page is quite deta
 * Computer Science (50% of year):
     * Programming Paradigms: 98 [C, Haskell & Java]
         * Conway's [game-of-life](https://github.com/shadowbourne/game-of-life): 97 [C]
+            > ![game of life](https://c.tenor.com/J3ify1Fut9gAAAAC/conways-game-of-life.gif)
     * Software Methodologies: 86
         * Machine Learning - [machine-learning-project](https://github.com/shadowbourne/machine-learning-project): 92
         * AI Search - [Lin-Kernighan-TSP](https://github.com/shadowbourne/Lin-Kernighan-TSP): 97
@@ -117,6 +118,8 @@ If you would like to find out anything more (or less, as this page is quite deta
     * Networks and Systems: 88 
         * Cyber Security: 96
         * Compiler Design - [first-order-logic-parser](https://github.com/shadowbourne/first-order-logic-parser): 97
+            > ![CD5](https://user-images.githubusercontent.com/18665030/136603337-ce7a0f6a-4aad-4436-ab1a-f088d3dd5d94.gif)
+
         * Distributed Systems: 70
         * Networks - [socket-level-message-board](https://github.com/shadowbourne/socket-level-message-board): 91
 
