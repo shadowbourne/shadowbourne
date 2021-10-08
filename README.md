@@ -9,15 +9,15 @@ I am in my 4th year and due to obtain my MSci (Master of Science) in Mathematics
 ## Contents:
 The remainder of this page contains extensive information on my skills, background and experience for any of those who are interested (this page also thereforeacts as a map to my GitHub repositories):
 * [The technologies I have learnt over the years 💻](#my-technology-stack-hover-over-for-names)
-* [What I learnt at University 🎓 / Module Breakdown 👩‍💻]()
-* [Career Breakdown 👷‍♀️]()
-* [Prior Education 📚]()
+* [What I learnt at University 🎓 / Module Breakdown 👩‍💻](#my-university-degree-)
+* [Career Breakdown 👷‍♀️](#my-career-)
+* [Prior Education 📚](#prior-education-)
 
 If you would like to find out anything more (or less, as this page is quite detailed) about me / get in contact, please check out my LinkedIn:
 
 <a href="https://www.linkedin.com/in/max-woolterton/"><img src="https://img.icons8.com/color/96/000000/linkedin.png"/></a>
 
-## My Technology Stack (hover over for names):
+# My Technology Stack (hover over for names):
 ### Professional:
 <center><div>
     <img src="https://img.icons8.com/color/48/000000/python.png" title="Python"/>
@@ -135,7 +135,7 @@ If you would like to find out anything more (or less, as this page is quite deta
     * Programming and Dynamics: 74
 
 
-## My Career:
+# My Career 💻:
 > For more details on my roles, and non-software-engineering-specific experiences, see my [LinkedIn](https://www.linkedin.com/in/max-woolterton/).
 ### IBM - Jun 2021: 
 
@@ -157,8 +157,8 @@ If you would like to find out anything more (or less, as this page is quite deta
 * Machine Learning Consultant - 3 mos:
     * After having been offered a promotion towards the end of my summer of work at Lanterne, I began alongside a small team of Agile Data Scientists during my first term of 3rd year at Durham University. During this time, I was primarily applying Deep Learning to construct a Convolutional Neural Network to forecast mobile location data throughout the UK to be used in global footfall/busyness prediction models (Crowdless). For an example of the work I undertook, see my fork of [ST-ResNet-Pytorch](https://github.com/shadowbourne/ST-ResNet-Pytorch).
 
-## Prior Education:
-* Norwich School, 2012 – 2018:
+# Prior Education 📚:
+* Norwich School 🌆, 2012 – 2018:
     * 6th Form Academic Scholar.
     * GCSEs: 10 A*s 1 A (with French, Spanish and Latin as languages).
     * A Levels:
@@ -173,6 +173,6 @@ If you would like to find out anything more (or less, as this page is quite deta
     * Activities and Societies: Young Leader and Scout at the 8th Norwich Sea Scouts. Karate, Squash, Tennis, Table tennis, School Ski Team, Running, Rugby.
 
  
-* Istituto Tito Acerbo di Pescara, 2007 - 2012:
+* Istituto Tito Acerbo di Pescara 🏖, 2007 - 2012:
     * Primary school education at an all Italian speaking local school in Loreto Aprutino, Abruzzo.
     * Am therefore fluent in Italian.
