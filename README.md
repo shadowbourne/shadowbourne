@@ -9,9 +9,9 @@ I am in my 4th year and due to obtain my MSci (Master of Science) in Mathematics
 ## Contents:
 The remainder of this page contains extensive information on my skills, background and experience for any of those who are interested (this page also thereforeacts as a map to my GitHub repositories):
 * [The technologies I have learnt over the years 💻](#my-technology-stack-hover-over-for-names)
-* [What I learnt at University 🎓 / Module Breakdown 👩‍💻](#my-university-degree)
-* [Career Breakdown 👷‍♀️](#my-career)
-* [Prior Education 📚]()
+* [What I learnt at University 🎓 / Module Breakdown 👩‍💻](#my-university-degree-)
+* [Career Breakdown 👷‍♀️](#my-career-)
+* [Prior Education 📚](#prior-education-)
 
 If you would like to find out anything more (or less, as this page is quite detailed) about me / get in contact, please check out my LinkedIn:
 
