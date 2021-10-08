@@ -66,19 +66,38 @@ If you would like to find out anything more (or less, as this page is quite deta
 </div></center>
 
 ## My University Degree:
-### First Year 🥇 - 1st (78/100):
-* Computer Science (33% of year):
-    * Computation Thinking: 76
-        * Error Correcting Codes: 100
-        * Modeling with Graphs: 100
-        * Bioinformatics: 96
-    * Computer Systems: 77
-        * Little Man Computer - Assembly/Machine Code : 71
-* Mathematics (66% of year):
-    * Linear Algebra: 85
-    * Calculus and Probability: 75
-    * Analysis: 83
-    * Programming and Dynamics: 74
+### Fourth Year 🏆 - In Progress:
+* MSci Dissertation/Project:
+    * Zero-shot Image Classification: Teach AI to Recognise Unknown Things
+* Computer Science (83% of year, including Dissertation):
+    * Natural Language Processing
+    * Advanced Computer Vision
+    * Parallel Scientific Computing II
+    * Blockchain and Cryptocurrencies
+
+* Mathematics (17% of year):
+    * Mathematical Finance
+### Third Year 🥉 - 1st (89/100):
+>Prize for Outstanding Level 3 Achievement awarded by the Board of Examiners
+
+
+* BSc Dissertation/Project:
+    * Combining Recent Advances in Reinforcement Learning for Super Mario Bros - [R2D4-RL](https://github.com/shadowbourne/R2D4-RL): 92 [PyTorch]
+
+        > <img src="https://user-images.githubusercontent.com/18665030/136562342-ef434a45-5ffd-4d7c-858e-ceee3894eec4.png" width="48" title="Mario"/>
+
+* Computer Science (58% of year, including Dissertation):
+    * Deep Learning - [pegasus-lightweight-gan](https://github.com/shadowbourne/pegasus-lightweight-gan): 104/100 [PyTorch]
+    * Reinforcement Learning - [R2ND4-Gravitar-RL](https://github.com/shadowbourne/R2ND4-Gravitar-RL): 100 [PyTorch]
+    * Parallel Scientific Computing I - [multicore-n-planet-simulator](https://github.com/shadowbourne/multicore-n-planet-simulator): 90 [C++]
+    * Recommender Systems - [CACBCF-Recommender-System](https://github.com/shadowbourne/CACBCF-Recommender-System): 92
+
+* Mathematics (42% of year):
+
+    * Probability: 87
+    * Decision Theory: 91
+    * Operations Research: 75 [Linear and Non-Linear Optimization Mathematics]
+
 
 ### Second Year 🥈 - 1st (83/100):
 >Prize for Outstanding Level 2 Achievement awarded by the Board of Examiners
@@ -101,39 +120,20 @@ If you would like to find out anything more (or less, as this page is quite deta
     * Analysis in Many Variables: 70
     * Algebra: 78
 
+### First Year 🥇 - 1st (78/100):
+* Computer Science (33% of year):
+    * Computation Thinking: 76
+        * Error Correcting Codes: 100
+        * Modeling with Graphs: 100
+        * Bioinformatics: 96
+    * Computer Systems: 77
+        * Little Man Computer - Assembly/Machine Code : 71
+* Mathematics (66% of year):
+    * Linear Algebra: 85
+    * Calculus and Probability: 75
+    * Analysis: 83
+    * Programming and Dynamics: 74
 
-### Third Year 🥉 - 1st (89/100):
->Prize for Outstanding Level 3 Achievement awarded by the Board of Examiners
-
-
-* BSc Dissertation/Project:
-    * Combining Recent Advances in Reinforcement Learning for Super Mario Bros - [R2D4-RL](https://github.com/shadowbourne/R2D4-RL): 92 [PyTorch]
-
-        > <img src="https://user-images.githubusercontent.com/18665030/136562342-ef434a45-5ffd-4d7c-858e-ceee3894eec4.png" width="48" title="Mario"/>
-
-* Computer Science (58% of year, including Dissertation):
-    * Deep Learning - [pegasus-lightweight-gan](https://github.com/shadowbourne/pegasus-lightweight-gan): 104/100 [PyTorch]
-    * Reinforcement Learning - [R2ND4-Gravitar-RL](https://github.com/shadowbourne/R2ND4-Gravitar-RL): 100 [PyTorch]
-    * Parallel Scientific Computing I - [multicore-n-planet-simulator](https://github.com/shadowbourne/multicore-n-planet-simulator): 90 [C++]
-    * Recommender Systems - [CACBCF-Recommender-System](https://github.com/shadowbourne/CACBCF-Recommender-System): 92
-
-* Mathematics (42% of year):
-
-    * Probability: 87
-    * Decision Theory: 91
-    * Operations Research: 75 [Linear and Non-Linear Optimization Mathematics]
-
-### Fourth Year 🏆 - In Progress:
-* MSci Dissertation/Project:
-    * Zero-shot Image Classification: Teach AI to Recognise Unknown Things
-* Computer Science (83% of year, including Dissertation):
-    * Natural Language Processing
-    * Advanced Computer Vision
-    * Parallel Scientific Computing II
-    * Blockchain and Cryptocurrencies
-
-* Mathematics (17% of year):
-    * Mathematical Finance
 
 ## My Career:
 > For more details on my roles, and non-software-engineering-specific experiences, see my [LinkedIn](https://www.linkedin.com/in/max-woolterton/).
