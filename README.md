@@ -207,3 +207,4 @@ I am in my 4th year and due to obtain my MSci (Master of Science) in Mathematics
 * Istituto Tito Acerbo di Pescara 🏖, 2007 - 2012:
     * Primary school education at an all Italian speaking local school in Loreto Aprutino, Abruzzo.
     * Am therefore fluent in Italian.
+    * Activities and Societies: Basketball, Skiing, Swimming.
