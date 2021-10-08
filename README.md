@@ -4,11 +4,8 @@
 
 <img src="hello-max.png" width="199" title="Hello!"/>
 
-I am currently studying Mathematics ➕ Computer Science at Durham University 🎓 under the Natural Sciences program. 
-> Within Natural Sciences, you are able to choose exactly what modules you study, from whichever faculties you choose, thereby removing many of the restrictions from "normal" degrees -
-> it is a build-your-own-degree degree and allows you to freely pursue your curiosities within your chosen fields! I would highly recommend. For example, it has allowed me to complete both a Bachelor's and a Master's level Dissertation/Project in Computer Science which normally students are not allowed to do (as it uses too many university resources)!
-
-I am in my 4th year and due to obtain my MSci (Master of Science) in Mathematics and Computer Science in August 2022!
+### Currently undertaking MSci Natural Sciences: Computer Science and Mathematics.
+* Average up to and including 3rd Year: 1st - 87/100
 
 ## Contents:
 The remainder of this page contains extensive information on my skills, background and experience for any of those who are interested (this page also thereforeacts as a map to my GitHub repositories):
@@ -70,6 +67,13 @@ If you would like to find out anything more (or less, as this page is quite deta
 </div></center>
 
 ## My University Degree 🎓:
+
+I am currently studying Mathematics ➕ Computer Science at Durham University 🎓 under the Natural Sciences program. 
+> Within Natural Sciences, you are able to choose exactly what modules you study, from whichever faculties you choose, thereby removing many of the restrictions from "normal" degrees -
+> it is a build-your-own-degree degree and allows you to freely pursue your curiosities within your chosen fields! I would highly recommend. For example, it has allowed me to complete both a Bachelor's and a Master's level Dissertation/Project in Computer Science which normally students are not allowed to do (as it uses too many university resources)!
+
+I am in my 4th year and due to obtain my MSci (Master of Science) in Mathematics and Computer Science in August 2022!
+
 ### Fourth Year 🏆 - In Progress:
 * MSci Dissertation/Project:
     * Zero-shot Image Classification: Teach AI to Recognise Unknown Things
