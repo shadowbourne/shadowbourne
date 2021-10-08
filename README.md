@@ -95,6 +95,7 @@ If you would like to find out anything more (or less, as this page is quite deta
     * Reinforcement Learning - [R2ND4-Gravitar-RL](https://github.com/shadowbourne/R2ND4-Gravitar-RL): 100 [PyTorch]
     * Parallel Scientific Computing I - [multicore-n-planet-simulator](https://github.com/shadowbourne/multicore-n-planet-simulator): 90 [C++]
     * Recommender Systems - [CACBCF-Recommender-System](https://github.com/shadowbourne/CACBCF-Recommender-System): 92
+    * Cryptography (unofficially, by special assessment): 100
 
 * Mathematics (42% of year):
 
