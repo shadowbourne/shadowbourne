@@ -1,15 +1,19 @@
 ### Hi there 👋 I'm Max, an aspiring Software and Machine Learning Engineer!
-### I am currently studying Mathematics and Computer Science at Durham University under the Natural Sciences program. 
+
+I am currently studying Mathematics and Computer Science at Durham University under the Natural Sciences program. 
 > The Natural Sciences program allows you to choose exactly what modules you study, from whichever faculties you choose, thereby removing many of the restrictions from "normal" degrees;
 > it is a build-your-own-degree degree and allows you to freely pursue your curiosities within your chosen fields! I would highly recommend.
-### I am currently in my 4th year and due to obtain my MSci (Master of Science) in Mathematics and Computer Science in August 2022!
-### The remainder of this page contains extensive information on my skills, background and experience for any of those who are interested (this page also thereforeacts as a map to my GitHub repositories):
+
+I am currently in my 4th year and due to obtain my MSci (Master of Science) in Mathematics and Computer Science in August 2022!
+
+The remainder of this page contains extensive information on my skills, background and experience for any of those who are interested (this page also thereforeacts as a map to my GitHub repositories):
 * The technologies I have learnt over the years 💻
 * Career Breakdown 👷‍♀️
 * What I learnt at University 🎓 / Module Breakdown 👩‍💻
 * Prior Education 📚
 
 If you would like to find out anything more (or less, as this page is quite detailed) about me / get in contact, please check out my LinkedIn:
+
 <a href="https://www.linkedin.com/in/max-woolterton/"><img src="https://img.icons8.com/color/144/000000/linkedin.png"/></a>
 ## My Technology Stack (hover over for names):
 ### Professional:
