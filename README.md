@@ -1,8 +1,8 @@
 # Hi there 👋 I'm Max, an aspiring Software and Machine Learning Engineer!
-![image](hello-max.png?v=4&s=100)
+<!-- ![image](hello-max.png?v=4&s=100) -->
 <!-- ![hello-max](https://user-images.githubusercontent.com/18665030/136573648-ac04751d-056c-40dd-8fa8-f445645cd93c.png?s=0.5) -->
 
-<!-- <img src="hello-max.png" width="192" title="Hello!"/> -->
+<img src="hello-max.png" width="199" title="Hello!"/>
 
 I am currently studying Mathematics ➕ Computer Science at Durham University 🎓 under the Natural Sciences program. 
 > Within Natural Sciences, you are able to choose exactly what modules you study, from whichever faculties you choose, thereby removing many of the restrictions from "normal" degrees -
