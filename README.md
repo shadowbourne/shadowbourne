@@ -25,11 +25,11 @@ If you would like to find out anything more (or less, as this page is quite deta
 # My Technology Stack (hover over for names):
 ### Professional:
 <center><div>
-    <img src="https://img.icons8.com/color/48/000000/python.png" title="Python"/>
-    <img src="https://pytorch.org/assets/images/pytorch-logo.png" width="48" title="PyTorch"/>
-    <img src="https://numfocus.org/wp-content/uploads/2016/07/pandas-logo-300.png" width="48" title="Pandas"/>
-    <img src="https://img.icons8.com/color/48/000000/graphql.png" title="GraphQL"/>
-    <img src="https://img.icons8.com/color/48/000000/apollo.png" title="Apollo GraphQL"/>
+    <img src="https://img.icons8.com/color/96/000000/python.png" title="Python"/>
+    <img src="https://pytorch.org/assets/images/pytorch-logo.png" width="96" title="PyTorch"/>
+    <img src="https://numfocus.org/wp-content/uploads/2016/07/pandas-logo-300.png" width="96" title="Pandas"/>
+    <img src="https://img.icons8.com/color/96/000000/graphql.png" title="GraphQL"/>
+    <img src="https://img.icons8.com/color/96/000000/apollo.png" title="Apollo GraphQL"/>
 </div></center>
 
 ### Intermediate:
