@@ -69,7 +69,7 @@ If you would like to find out anything more (or less, as this page is quite deta
     <img src="https://img.icons8.com/color/48/000000/blender-3d.png" title="Blender 3d"/>
 </div></center>
 
-## My University Degree:
+## My University Degree 🎓:
 ### Fourth Year 🏆 - In Progress:
 * MSci Dissertation/Project:
     * Zero-shot Image Classification: Teach AI to Recognise Unknown Things
