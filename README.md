@@ -1,7 +1,12 @@
 # Hi there 👋 I'm Max, an aspiring Software and Machine Learning Engineer!
+![image](hello-max.png?v=4&s=100)
+<!-- ![hello-max](https://user-images.githubusercontent.com/18665030/136573648-ac04751d-056c-40dd-8fa8-f445645cd93c.png?s=0.5) -->
+
+<!-- <img src="hello-max.png" width="192" title="Hello!"/> -->
 
 I am currently studying Mathematics ➕ Computer Science at Durham University 🎓 under the Natural Sciences program. 
 > Within Natural Sciences, you are able to choose exactly what modules you study, from whichever faculties you choose, thereby removing many of the restrictions from "normal" degrees -
+
 > it is a build-your-own-degree degree and allows you to freely pursue your curiosities within your chosen fields! I would highly recommend. For example, it has allowed me to complete both a Bachelor's and a Master's level Dissertation/Project in Computer Science which normally students are not allowed to do (as it uses too many university resources)!
 
 I am in my 4th year and due to obtain my MSci (Master of Science) in Mathematics and Computer Science in August 2022!
