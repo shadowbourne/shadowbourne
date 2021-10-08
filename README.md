@@ -5,14 +5,14 @@
 <img src="hello-max.png" width="199" title="Hello!"/>
 
 ### Currently undertaking MSci Natural Sciences: Computer Science and Mathematics.
-* Average up to and including 3rd Year: 1st - 87/100
+> Average up to and including 3rd Year: **1st** - **87/100**
 
 ## Contents:
-The remainder of this page contains extensive information on my skills, background and experience for any of those who are interested (this page also thereforeacts as a map to my GitHub repositories):
-* [The technologies I have learnt over the years 💻](#my-technology-stack-hover-over-for-names)
-* [What I learnt at University 🎓 / Module Breakdown 👩‍💻](#my-university-degree-)
-* [Career Breakdown 👷‍♀️](#my-career-)
-* [Prior Education 📚](#prior-education-)
+This page contains extensive information on my skills, background and experience for any of those who are interested (this page also thereforeacts as a map to my GitHub repositories):
+1. [The technologies I have learnt over the years 💻](#my-technology-stack-hover-over-for-names)
+2. [What I learnt at University 🎓 / Module Breakdown 👩‍💻](#my-university-degree-)
+3. [Career Breakdown 👷‍♀️](#my-career-)
+4. [Prior Education 📚](#prior-education-)
 
 If you would like to find out anything more (or less, as this page is quite detailed) about me / get in contact, please check out my LinkedIn:
 
@@ -66,7 +66,7 @@ If you would like to find out anything more (or less, as this page is quite deta
     <img src="https://img.icons8.com/color/48/000000/blender-3d.png" title="Blender 3d"/>
 </div></center>
 
-## My University Degree 🎓:
+# My University Degree 🎓:
 
 I am currently studying Mathematics ➕ Computer Science at Durham University 🎓 under the Natural Sciences program. 
 > Within Natural Sciences, you are able to choose exactly what modules you study, from whichever faculties you choose, thereby removing many of the restrictions from "normal" degrees -
@@ -159,6 +159,10 @@ I am in my 4th year and due to obtain my MSci (Master of Science) in Mathematics
     * Calculus and Probability: 75
     * Analysis: 83
     * Programming and Dynamics: 74
+
+### Activities and Societies:
+* Captain of College Squash B and C teams.
+* St Cuthbert's Society Darts, Table Tennis, Squash & Pool
 
 
 # My Career 💻:
