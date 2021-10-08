@@ -66,7 +66,7 @@ If you would like to find out anything more (or less, as this page is quite deta
 </div></center>
 
 ## My University Degree:
-### First Year - 1st (78/100):
+### First Year 🥇 - 1st (78/100):
 * Computer Science (33% of year):
     * Computation Thinking: 76
         * Error Correcting Codes: 100
@@ -80,7 +80,7 @@ If you would like to find out anything more (or less, as this page is quite deta
     * Analysis: 83
     * Programming and Dynamics: 74
 
-### Second Year - 1st (83/100):
+### Second Year 🥈 - 1st (83/100):
 >Prize for Outstanding Level 2 Achievement awarded by the Board of Examiners
 * Computer Science (50% of year):
     * Programming Paradigms: 98 [C, Haskell & Java]
@@ -102,24 +102,28 @@ If you would like to find out anything more (or less, as this page is quite deta
     * Algebra: 78
 
 
-### Third Year - 1st (89/100):
+### Third Year 🥉 - 1st (89/100):
 >Prize for Outstanding Level 3 Achievement awarded by the Board of Examiners
 
 
 * BSc Dissertation/Project:
-    * Combining Recent Advances in Reinforcement Learning for Super Mario Bros - [R2D4-RL ](https://github.com/shadowbourne/R2D4-RL): 1st (92/100)
+    * Combining Recent Advances in Reinforcement Learning for Super Mario Bros - [R2D4-RL](https://github.com/shadowbourne/R2D4-RL): 92 [PyTorch]
+
+        > <img src="https://user-images.githubusercontent.com/18665030/136562342-ef434a45-5ffd-4d7c-858e-ceee3894eec4.png" width="48" title="Mario"/>
+
 * Computer Science (58% of year, including Dissertation):
     * Deep Learning - [pegasus-lightweight-gan](https://github.com/shadowbourne/pegasus-lightweight-gan): 104/100 [PyTorch]
-    * Reinforcement Learning - [R2ND4-Gravitar-RL](https://github.com/shadowbourne/R2ND4-Gravitar-RL): 100
+    * Reinforcement Learning - [R2ND4-Gravitar-RL](https://github.com/shadowbourne/R2ND4-Gravitar-RL): 100 [PyTorch]
     * Parallel Scientific Computing I - [multicore-n-planet-simulator](https://github.com/shadowbourne/multicore-n-planet-simulator): 90 [C++]
     * Recommender Systems - [CACBCF-Recommender-System](https://github.com/shadowbourne/CACBCF-Recommender-System): 92
 
 * Mathematics (42% of year):
+
     * Probability: 87
     * Decision Theory: 91
     * Operations Research: 75 [Linear and Non-Linear Optimization Mathematics]
 
-### Fourth Year - In Progress:
+### Fourth Year 🏆 - In Progress:
 * MSci Dissertation/Project:
     * Zero-shot Image Classification: Teach AI to Recognise Unknown Things
 * Computer Science (83% of year, including Dissertation):
