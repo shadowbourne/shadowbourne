@@ -9,28 +9,14 @@ I am in my 4th year and due to obtain my MSci (Master of Science) in Mathematics
 ## Contents:
 The remainder of this page contains extensive information on my skills, background and experience for any of those who are interested (this page also thereforeacts as a map to my GitHub repositories):
 * [The technologies I have learnt over the years 💻](#my-technology-stack-hover-over-for-names)
-* [Career Breakdown 👷‍♀️]()
 * [What I learnt at University 🎓 / Module Breakdown 👩‍💻]()
+* [Career Breakdown 👷‍♀️]()
 * [Prior Education 📚]()
 
 If you would like to find out anything more (or less, as this page is quite detailed) about me / get in contact, please check out my LinkedIn:
 
 <a href="https://www.linkedin.com/in/max-woolterton/"><img src="https://img.icons8.com/color/96/000000/linkedin.png"/></a>
 
-## My Career:
-> For more details on my roles, and non-software-engineering-specific experiences, see my [LinkedIn](https://www.linkedin.com/in/max-woolterton/).
-### IBM:
-* Extreme Blue Intern - 3 months
-### Durham University:
-* Computer Science Demonstrator / Teaching Assistant - 2 years
-    * I run three weekly Programming Paradigms Practical groups. During these sessions I teach and assist a group of (~10) second year university students to write code in C, Java and Haskell (depending on the week/group in question).
-### Lanterne
-* Machine Learning Consultant - 3 mos
-    * After having been offered a promotion towards the end of my summer of work at Lanterne, I began alongside a small team of Agile Data Scientists during my first term of 3rd year at Durham University. During this time, I was primarily applying Deep Learning to construct a Convolutional Neural Network to forecast mobile location data throughout the UK to be used in global footfall/busyness prediction models (Crowdless). For an example of the work I undertook, see my fork of [ST-ResNet-Pytorch](https://github.com/shadowbourne/ST-ResNet-Pytorch).
-* Data Science Consultant - 5 mos
-    * Main Projects:
-        - Working on the discovery, scouting and subsequent analysis of the applicability of various data sources to be integrated into global footfall/busyness prediction models ~ 3 months.
-        - Started up and have since been managing Lanterne's open-source Opening Hours retrieval project [poi-info-scraper](https://github.com/SebasMueller/poi-info-scraper/). Subsequently built upon the open-source codebase internally to increase its global coverage drastically, by integrating it with a hybrid Bing and Yelp scraper I built, to then be integrated directly into our AWS pipeline ~ 1.5 months.
 ## My Technology Stack (hover over for names):
 ### Professional:
 <center><div>
@@ -148,3 +134,45 @@ If you would like to find out anything more (or less, as this page is quite deta
 
 * Mathematics (17% of year):
     * Mathematical Finance
+
+## My Career:
+> For more details on my roles, and non-software-engineering-specific experiences, see my [LinkedIn](https://www.linkedin.com/in/max-woolterton/).
+### IBM - Jun 2021: 
+
+> <img src="https://img.icons8.com/color/96/000000/ibm.png"/>
+
+* Extreme Blue Intern - 3 months
+### Durham University - Sep 2020:
+> <img src="https://logos-download.com/wp-content/uploads/2020/06/Durham_University_Logo.png" height="96"/>
+
+* Computer Science Demonstrator / Teaching Assistant - 2 years:
+    * I run three weekly Programming Paradigms Practical groups. During these sessions I teach and assist a group of (~10) second year university students to write code in C, Java and Haskell (depending on the week/group in question).
+### Lanterne - Jun 2020:
+> <img src="https://lanterne.ai/wp-content/uploads/2021/02/logo_colours-1024x251.png" height="96"/>
+* Data Science Consultant - 5 mos:
+    * Main Projects:
+        - Working on the discovery, scouting and subsequent analysis of the applicability of various data sources to be integrated into global footfall/busyness prediction models ~ 3 months.
+        - Started up and have since been managing Lanterne's open-source Opening Hours retrieval project [poi-info-scraper](https://github.com/SebasMueller/poi-info-scraper/). Subsequently built upon the open-source codebase internally to increase its global coverage drastically, by integrating it with a hybrid Bing and Yelp scraper I built, to then be integrated directly into our AWS pipeline ~ 1.5 months.
+
+* Machine Learning Consultant - 3 mos:
+    * After having been offered a promotion towards the end of my summer of work at Lanterne, I began alongside a small team of Agile Data Scientists during my first term of 3rd year at Durham University. During this time, I was primarily applying Deep Learning to construct a Convolutional Neural Network to forecast mobile location data throughout the UK to be used in global footfall/busyness prediction models (Crowdless). For an example of the work I undertook, see my fork of [ST-ResNet-Pytorch](https://github.com/shadowbourne/ST-ResNet-Pytorch).
+
+## Prior Education:
+* Norwich School, 2012 – 2018:
+    * 6th Form Academic Scholar.
+    * GCSEs: 10 A*s 1 A (with French, Spanish and Latin as languages).
+    * A Levels:
+        * A* in Maths (590/600 UMS),
+        * A* in Further Maths (573/600 UMS),
+        * A* in Chemistry (251/270 UMS with an A* boundary of 237/270),
+        * A* in Physics (244/270 UMS, with an A* boundary of 219/270).
+
+    * Standalone Qualifications:
+        - "Gold with Distinction" for my "Independent Study" paper on Special Relativity (Norwich School's equivalent of a more in-depth EPQ).
+        - A (97/100) in OCR Additional Mathematics.
+    * Activities and Societies: Young Leader and Scout at the 8th Norwich Sea Scouts. Karate, Squash, Tennis, Table tennis, School Ski Team, Running, Rugby.
+
+ 
+* Istituto Tito Acerbo di Pescara, 2007 - 2012:
+    * Primary school education at an all Italian speaking local school in Loreto Aprutino, Abruzzo.
+    * Am therefore fluent in Italian.
