@@ -113,7 +113,11 @@ I am in my 4th year and due to obtain my MSci (Master of Science) in Mathematics
 
     * Parallel Scientific Computing I - [multicore-n-planet-simulator](https://github.com/shadowbourne/multicore-n-planet-simulator): 90 [C++]
     * Recommender Systems - [CACBCF-Recommender-System](https://github.com/shadowbourne/CACBCF-Recommender-System): 92
-    * Cryptography (unofficially, by special assessment): 100
+        > ![Gifdemo](https://user-images.githubusercontent.com/18665030/136662812-603df2df-1e27-4033-b75b-a84137aa5de3.gif)
+        > 
+        > I created a "Novel Context Aware Restaurant Recommender System Using Content-Boosted Collaborative Filtering" using a custom hybrid scheme on the Yelp Dataset. To interface with this Recommender System, I created a fully-fledged GUI where user can log in, register, submit new reviews and retrieve personalized restaurant recommendations using Content Aware Content-Boosted Collaborative Filtering. In simplified terms, the recommender would look for restaurants in your vicinity (**context-aware**, as the recommender interfaces with location services) that match the type of restaurants you like (**content-based**) and that are liked by others with similar tastes to you (**collaborative filtering**). Due to being highly optimized, the recommender can retrain itself almost instantly when a user submits a new review or on alteration to a prediction. This means the user can interact with the recommender and see the recommendations change in real-time.
+
+    * Cryptography (unofficially, by special assessment over summer): 100
 
 * Mathematics (42% of year):
 
