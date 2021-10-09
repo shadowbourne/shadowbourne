@@ -135,7 +135,6 @@ I am in my 4th year and due to obtain my MSci (Master of Science) in Mathematics
 * Computer Science (50% of year):
     * Programming Paradigms: 98 [C, Haskell & Java]
         * Conway's [game-of-life](https://github.com/shadowbourne/game-of-life): 97 [C]
-            > ![game of life](https://c.tenor.com/J3ify1Fut9gAAAAC/conways-game-of-life.gif)
     * Software Methodologies: 86
         * Machine Learning - [machine-learning-project](https://github.com/shadowbourne/machine-learning-project): 92
         * AI Search - [Lin-Kernighan-TSP](https://github.com/shadowbourne/Lin-Kernighan-TSP): 97
