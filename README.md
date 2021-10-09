@@ -100,6 +100,10 @@ I am in my 4th year and due to obtain my MSci (Master of Science) in Mathematics
 * Computer Science (58% of year, including Dissertation):
     * Deep Learning - [pegasus-lightweight-gan](https://github.com/shadowbourne/pegasus-lightweight-gan): 104/100 [PyTorch]
     * Reinforcement Learning - [R2ND4-Gravitar-RL](https://github.com/shadowbourne/R2ND4-Gravitar-RL): 100 [PyTorch]
+        >![Gifdemo2](https://user-images.githubusercontent.com/18665030/136660504-c89f9c89-41d3-4070-982f-23473bda3fcb.gif)
+        >
+        > We were tasked with creating a Reinforcement Learning agent to play the notoriously difficult Gravitar from the Atari-57 suite. I therefore decided to look for the current state-of-the-art Reinforcement Learning model for Atari ([R2D2](https://openreview.net/pdf?id=r1lyTjAqYX)) and re-created it to the best I could with my limited hardware. I produced the best agent in the class, and my convergence graph was used as exemplar feedback to the cohort.
+
     * Parallel Scientific Computing I - [multicore-n-planet-simulator](https://github.com/shadowbourne/multicore-n-planet-simulator): 90 [C++]
     * Recommender Systems - [CACBCF-Recommender-System](https://github.com/shadowbourne/CACBCF-Recommender-System): 92
     * Cryptography (unofficially, by special assessment): 100
@@ -130,7 +134,7 @@ I am in my 4th year and due to obtain my MSci (Master of Science) in Mathematics
 
     * Networks and Systems: 88 
         * Cyber Security: 96
-            > For this assignment, we were given a sandbox Linux Virtual Machine of a fake company with ~25 assorted vulnerabilities. We had to find, analyze and mitigate up to 18 of these vulnerabilities. This was an incredibly creative and amazing coursework, which I I'm very grateful to Dr Chris G. Willcocks for creating.
+            > For this assignment, we were given a sandbox Linux Virtual Machine of a fake company with ~25 assorted vulnerabilities. We had to find, analyze and mitigate up to 18 of these vulnerabilities. This was an incredibly creative and amazing coursework, which I I'm very grateful to Dr Chris G. Willcocks for creating. ❤
            
         * Compiler Design - [first-order-logic-parser](https://github.com/shadowbourne/first-order-logic-parser): 97
             > ![CD5](https://user-images.githubusercontent.com/18665030/136603337-ce7a0f6a-4aad-4436-ab1a-f088d3dd5d94.gif)
