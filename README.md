@@ -189,7 +189,17 @@ I am in my 4th year and due to obtain my MSci (Master of Science) in Mathematics
 
 > <img src="https://img.icons8.com/color/96/000000/ibm.png"/>
 
-* Extreme Blue Intern - 3 months
+* Extreme Blue Intern - 3 months:
+    * Worked in an autonomous team of four students to design, prototype and deliver a solution to tackle a problem of our choice within the Retail Industry for a well-known fashion retailer using hybrid-cloud technology.
+    * Despite reduced development time, I delivered a fully-fledged MVP and a business case to take forward to the CTO, of an idea that both the Retail Director and Head of Operations & Omnichannel Transformation expressed they thought had real promise within the industry.
+    * IBM predicts our solution will save the company £37m p/a by halving customer returns and increasing customer loyalty.
+    * Submitted a US patent application covering our algorithm.
+    * I personally led the back-end Agile development team of David Shipman and myself, which required us to learn/use JavaScript/Node.js, Apollo-GraphQL, MongoDB and IBM Cloud Object Storage. This required envisioning any functionality that the front-end would need by completion and delegating tasks accordingly. I completed the back-end three weeks ahead of schedule. 
+    * I then joined the front-end team, where I used React and Ionic to build a cross-platform customer-facing phone application.
+    * Despite having never touched React or Ionic before, I quickly became the go-to member to solve the hardest React/Ionic bugs and blockers the team encountered. I was incredibly proud of this feat.
+    * I also decided to integrate our back-end directly with the client's website for search and product functionality to exemplify to my client the "pluggability" and ease of integration of our design schema.
+    * In week 4, our well-known grocery client pulled out. We therefore had to completely pivot on the past three weeks work and transfer the insights gained to a different sector. After an initial shock period, we iterated our Design Thinking to produce an even more impactful solution.
+    * This was a valuable insight into the real world of working with clients whose needs may drastically change at a moment’s notice.
 ### Durham University - Sep 2020:
 > <img src="https://logos-download.com/wp-content/uploads/2020/06/Durham_University_Logo.png" height="96"/>
 
