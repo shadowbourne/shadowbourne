@@ -91,7 +91,10 @@ I am in my 4th year and due to obtain my MSci (Master of Science) in Mathematics
 
 * BSc Dissertation/Project:
     * Combining Recent Advances in Reinforcement Learning for Super Mario Bros - [R2D4-RL](https://github.com/shadowbourne/R2D4-RL): 92 [PyTorch]
-
+        > ![Gifdemo6](https://user-images.githubusercontent.com/18665030/136659042-7b071648-e77a-4fef-9757-9160d22ae2b0.gif)
+        > 
+        > During my Dissertation, I surveyed the field of Reinforcement Learning and spent my project investigating how best to combine many recent advances from Reinforcement Learning. In doing so, I created an AI agent capable of teaching itself to play the game Super Mario Bros. to superhuman level, achieving new state-of-the-art performance within the field. This demo shows the agent playing Worlds 5 and 7, and was taken from the project's [final presentation](https://github.com/shadowbourne/R2D4-RL/blob/main/Demonstration%20Final%20Presentation.pptx).
+        > 
         > <img src="https://user-images.githubusercontent.com/18665030/136562342-ef434a45-5ffd-4d7c-858e-ceee3894eec4.png" width="48" title="Mario"/>
 
 * Computer Science (58% of year, including Dissertation):
