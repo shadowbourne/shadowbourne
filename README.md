@@ -99,10 +99,17 @@ I am in my 4th year and due to obtain my MSci (Master of Science) in Mathematics
 
 * Computer Science (58% of year, including Dissertation):
     * Deep Learning - [pegasus-lightweight-gan](https://github.com/shadowbourne/pegasus-lightweight-gan): 104/100 [PyTorch]
+        > ![Gifdemo245](https://user-images.githubusercontent.com/18665030/136661179-7fd26891-5c75-4da2-829b-42bd29473d02.gif)
+        > 
+        >  The task was to create a Pegasus (a winged horse) by training generative models solely on a dataset (STL-10 or CIFAR-10) containing no winged horses. However, the datasets do contain some horses, birds and planes. After extensively experimenting with, designing and tweaking various [flow-based generative models](https://en.wikipedia.org/wiki/Flow-based_generative_model) and [VAEs](https://en.wikipedia.org/wiki/Variational_autoencoder) (variational autoencoders) (as these were theoretically better suited to the task and I wanted to try something novel), I decided to apply the current state-of-the-art [GAN](https://en.wikipedia.org/wiki/Generative_adversarial_network) (generative adversarial network) ["lightweight" GAN](https://openreview.net/forum?id=1Fqg133qRaI) to the task. Above you can see some interpolation within the latent space of a partially-trained model, and below you can see some of the final Pegasi I produced. Various of my Pegasi were used as exemplar feedback to the class.
+        >  
+        >  ![image](https://user-images.githubusercontent.com/18665030/136662270-38cae834-5912-43ac-b3df-23d1592d13f7.png)
+
+
     * Reinforcement Learning - [R2ND4-Gravitar-RL](https://github.com/shadowbourne/R2ND4-Gravitar-RL): 100 [PyTorch]
         >![Gifdemo2](https://user-images.githubusercontent.com/18665030/136660504-c89f9c89-41d3-4070-982f-23473bda3fcb.gif)
         >
-        > We were tasked with creating a Reinforcement Learning agent to play the notoriously difficult Gravitar from the Atari-57 suite. I therefore decided to look for the current state-of-the-art Reinforcement Learning model for Atari ([R2D2](https://openreview.net/pdf?id=r1lyTjAqYX)) and re-created it to the best I could with my limited hardware. I produced the best agent in the class, and my convergence graph was used as exemplar feedback to the cohort.
+        > We were tasked with creating a Reinforcement Learning agent to play the notoriously difficult Gravitar from the Atari-57 suite. I therefore decided to look for the current state-of-the-art Reinforcement Learning model for Atari ([R2D2](https://openreview.net/pdf?id=r1lyTjAqYX)) and re-created it to the best I could with my limited hardware. I produced the best agent in the class, and my convergence graph was used as exemplar feedback to the cohort (one of two such graphs).
 
     * Parallel Scientific Computing I - [multicore-n-planet-simulator](https://github.com/shadowbourne/multicore-n-planet-simulator): 90 [C++]
     * Recommender Systems - [CACBCF-Recommender-System](https://github.com/shadowbourne/CACBCF-Recommender-System): 92
