@@ -112,6 +112,10 @@ I am in my 4th year and due to obtain my MSci (Master of Science) in Mathematics
         > We were tasked with creating a Reinforcement Learning agent to play the notoriously difficult Gravitar from the Atari-57 suite. I therefore decided to look for the current state-of-the-art Reinforcement Learning model for Atari ([R2D2](https://openreview.net/pdf?id=r1lyTjAqYX)) and re-created it to the best I could with my limited hardware. I produced the best agent in the class, and my convergence graph was used as exemplar feedback to the cohort (one of two such graphs).
 
     * Parallel Scientific Computing I - [multicore-n-planet-simulator](https://github.com/shadowbourne/multicore-n-planet-simulator): 90 [C++]
+        > ![Gifdemo1](https://user-images.githubusercontent.com/18665030/136667074-f1f25ed1-1a71-44f2-b94c-5503c86e52ec.gif)
+        > 
+        > Vectorized and multicore n-body simulator(s) written and extensively optimised in C++ for scalability to millions of particles/planets to be run on a single node of a supercomputer.
+
     * Recommender Systems - [CACBCF-Recommender-System](https://github.com/shadowbourne/CACBCF-Recommender-System): 92
         > ![Gifdemo](https://user-images.githubusercontent.com/18665030/136662812-603df2df-1e27-4033-b75b-a84137aa5de3.gif)
         > 
