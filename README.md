@@ -210,12 +210,12 @@ I am in my 4th year and due to obtain my MSci (Master of Science) in Mathematics
     * I run three weekly Programming Paradigms Practical groups. During these sessions I teach and assist a group of (~10) second year university students to write code in C, Java and Haskell (depending on the week/group in question).
 ## Lanterne - Jun 2020:
 > <img src="https://lanterne.ai/wp-content/uploads/2021/02/logo_colours-1024x251.png" height="96"/>
-* Data Science Consultant - 5 mos:
+* Data Science Consultant - 5 months:
     * Main Projects:
         - Working on the discovery, scouting and subsequent analysis of the applicability of various data sources to be integrated into global footfall/busyness prediction models ~ 3 months.
         - Started up and have since been managing Lanterne's open-source Opening Hours retrieval project [poi-info-scraper](https://github.com/SebasMueller/poi-info-scraper/). Subsequently built upon the open-source codebase internally to increase its global coverage drastically, by integrating it with a hybrid Bing and Yelp scraper I built, to then be integrated directly into our AWS pipeline ~ 1.5 months.
 
-* Machine Learning Consultant - 3 mos:
+* Machine Learning Consultant - 3 months:
     * After having been offered a promotion towards the end of my summer of work at Lanterne, I began alongside a small team of Agile Data Scientists during my first term of 3rd year at Durham University. During this time, I was primarily applying Deep Learning to construct a Convolutional Neural Network to forecast mobile location data throughout the UK to be used in global footfall/busyness prediction models (Crowdless). For an example of the work I undertook, see my fork of [ST-ResNet-Pytorch](https://github.com/shadowbourne/ST-ResNet-Pytorch).
 
 # Prior Education 📚:
