@@ -72,7 +72,10 @@ I am currently studying Mathematics ➕ Computer Science at Durham University �
 > Within Natural Sciences, you are able to choose exactly what modules you study, from whichever faculties you choose, thereby removing many of the restrictions from "normal" degrees -
 > it is a build-your-own-degree degree and allows you to freely pursue your curiosities within your chosen fields! I would highly recommend. For example, it has allowed me to complete both a Bachelor's and a Master's level Dissertation/Project in Computer Science which normally students are not allowed to do (as it uses too many university resources)!
 
+
 I am in my 4th year and due to obtain my MSci (Master of Science) in Mathematics and Computer Science in August 2022!
+
+> Additionally, according to the measure employed by Durham University, a Natural Sciences student is the most qualified of any student. ✨
 
 ## Fourth Year 🏆 - In Progress:
 ### MSci Dissertation/Project:
