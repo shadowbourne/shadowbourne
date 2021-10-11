@@ -90,7 +90,7 @@ I am in my 4th year and due to obtain my MSci (Master of Science) in Mathematics
 
 
 ### BSc Dissertation/Project:
-* Combining Recent Advances in Reinforcement Learning for Super Mario Bros - [R2D4-RL](https://github.com/shadowbourne/R2D4-RL): 92 [PyTorch]
+* Combining Recent Advances in Reinforcement Learning for Super Mario Bros - [R2D4-RL](https://github.com/shadowbourne/R2D4-RL): 92, 6th in year. [PyTorch]
     > ![Gifdemo6](https://user-images.githubusercontent.com/18665030/136659042-7b071648-e77a-4fef-9757-9160d22ae2b0.gif)
     > 
     > During my Dissertation, I surveyed the field of Reinforcement Learning and spent my project investigating how best to combine many recent advances from Reinforcement Learning. In doing so, I created an AI agent capable of teaching itself to play the game Super Mario Bros. to superhuman level, achieving new state-of-the-art performance within the field. This demo shows the agent playing Worlds 5 and 7, and was taken from the project's [final presentation](https://github.com/shadowbourne/R2D4-RL/blob/main/Demonstration%20Final%20Presentation.pptx).
@@ -98,7 +98,7 @@ I am in my 4th year and due to obtain my MSci (Master of Science) in Mathematics
     > <img src="https://user-images.githubusercontent.com/18665030/136562342-ef434a45-5ffd-4d7c-858e-ceee3894eec4.png" width="48" title="Mario"/>
 
 ### Computer Science (58% of year, including Dissertation):
-* Deep Learning - [pegasus-lightweight-gan](https://github.com/shadowbourne/pegasus-lightweight-gan): 104/100 [PyTorch]
+* Deep Learning - [pegasus-lightweight-gan](https://github.com/shadowbourne/pegasus-lightweight-gan): 104/100, 1st in year. [PyTorch]
     > ![Gifdemo245](https://user-images.githubusercontent.com/18665030/136661179-7fd26891-5c75-4da2-829b-42bd29473d02.gif)
     > 
     >  The task was to create a Pegasus (a winged horse) by training generative models solely on a dataset (STL-10 or CIFAR-10) containing no winged horses. However, the datasets do contain some horses, birds and planes. After extensively experimenting with, designing and tweaking various [flow-based generative models](https://en.wikipedia.org/wiki/Flow-based_generative_model) and [VAEs](https://en.wikipedia.org/wiki/Variational_autoencoder) (variational autoencoders) (as these were theoretically better suited to the task and I wanted to try something novel), I decided to apply the current state-of-the-art [GAN](https://en.wikipedia.org/wiki/Generative_adversarial_network) (generative adversarial network) ["lightweight" GAN](https://openreview.net/forum?id=1Fqg133qRaI) to the task. Above you can see some interpolation within the latent space of a partially-trained model, and below you can see some of the final Pegasi I produced. Various of my Pegasi were used as exemplar feedback to the class.
@@ -106,17 +106,17 @@ I am in my 4th year and due to obtain my MSci (Master of Science) in Mathematics
     >  ![image](https://user-images.githubusercontent.com/18665030/136662270-38cae834-5912-43ac-b3df-23d1592d13f7.png)
 
 
-* Reinforcement Learning - [R2ND4-Gravitar-RL](https://github.com/shadowbourne/R2ND4-Gravitar-RL): 100 [PyTorch]
+* Reinforcement Learning - [R2ND4-Gravitar-RL](https://github.com/shadowbourne/R2ND4-Gravitar-RL): 100, 1st in year. [PyTorch]
     >![Gifdemo2](https://user-images.githubusercontent.com/18665030/136660504-c89f9c89-41d3-4070-982f-23473bda3fcb.gif)
     >
     > We were tasked with creating a Reinforcement Learning agent to play the notoriously difficult Gravitar from the Atari-57 suite. I therefore decided to look for the current state-of-the-art Reinforcement Learning model for Atari ([R2D2](https://openreview.net/pdf?id=r1lyTjAqYX)) and re-created it to the best I could with my limited hardware. I produced the best agent in the class, and my convergence graph was used as exemplar feedback to the cohort (one of two such graphs).
 
-* Parallel Scientific Computing I - [multicore-n-planet-simulator](https://github.com/shadowbourne/multicore-n-planet-simulator): 90 [C++, vectorized and multicore programming]
+* Parallel Scientific Computing I - [multicore-n-planet-simulator](https://github.com/shadowbourne/multicore-n-planet-simulator): 90, 1st in year. [C++, vectorized and multicore programming]
     > ![Gifdemo1](https://user-images.githubusercontent.com/18665030/136667074-f1f25ed1-1a71-44f2-b94c-5503c86e52ec.gif)
     > 
     > Vectorized and multicore n-body simulator(s) written and extensively optimised in C++ for scalability to millions of particles/planets to be run on a single node of a supercomputer.
 
-* Recommender Systems - [CACBCF-Recommender-System](https://github.com/shadowbourne/CACBCF-Recommender-System): 92
+* Recommender Systems - [CACBCF-Recommender-System](https://github.com/shadowbourne/CACBCF-Recommender-System): 92, 3rd in year.
     > ![Gifdemo](https://user-images.githubusercontent.com/18665030/136662812-603df2df-1e27-4033-b75b-a84137aa5de3.gif)
     > 
     > I created a "Novel Context Aware Restaurant Recommender System Using Content-Boosted Collaborative Filtering" using a custom hybrid scheme on the Yelp Dataset. To interface with this Recommender System, I created a fully-fledged GUI where user can log in, register, submit new reviews and retrieve personalized restaurant recommendations using Content Aware Content-Boosted Collaborative Filtering. In simplified terms, the recommender would look for restaurants in your vicinity (**context-aware**, as the recommender interfaces with location services) that match the type of restaurants you like (**content-based**) and that are liked by others with similar tastes to you (**collaborative filtering**). Due to being highly optimized, the recommender can retrain itself almost instantly when a user submits a new review or on alteration to a prediction. This means the user can interact with the recommender and see the recommendations change in real-time.
@@ -125,17 +125,17 @@ I am in my 4th year and due to obtain my MSci (Master of Science) in Mathematics
 
 ### Mathematics (42% of year):
 
-* Probability: 87
-* Decision Theory: 91
-* Operations Research: 75 [Linear and Non-Linear Optimization Mathematics]
+* Probability: 87, 19th in year.
+* Decision Theory: 91, 3rd in year.
+* Operations Research: 75, 24th in year. [Linear and Non-Linear Optimization Mathematics]
 
 
 ## Second Year 🥈 - 1st (83/100):
 >Prize for Outstanding Level 2 Achievement awarded by the Board of Examiners
 ### Computer Science (50% of year):
-* Programming Paradigms: 98 [C, Haskell & Java]
+* Programming Paradigms: 98, 3rd in year. [C, Haskell & Java]
     * Conway's [game-of-life](https://github.com/shadowbourne/game-of-life): 97 [C]
-* Software Methodologies: 86
+* Software Methodologies: 86, 12th in year.
     * Machine Learning - [machine-learning-project](https://github.com/shadowbourne/machine-learning-project): 92
     * AI Search - [Lin-Kernighan-TSP](https://github.com/shadowbourne/Lin-Kernighan-TSP): 97
     * Image Processing: 89 [OpenCV] 
@@ -146,7 +146,7 @@ I am in my 4th year and due to obtain my MSci (Master of Science) in Mathematics
         > 
         > **Note:** This scene was constructed entirely from scratch, using no external libraries. This includes all shaders, objects, animations, lighting, texturing etc...
 
-* Networks and Systems: 88 
+* Networks and Systems: 88, 14th in year. 
     * Cyber Security: 96
         > For this assignment, we were given a sandbox Linux Virtual Machine of a fake company with ~25 assorted vulnerabilities. We had to find, analyze and mitigate up to 18 of these vulnerabilities. This was an incredibly creative and amazing coursework, which I I'm very grateful to Dr Chris G. Willcocks for creating. ❤
 
