@@ -50,6 +50,7 @@ If you would like to find out anything more (or less, as this page is quite deta
     <img src="https://img.icons8.com/color/48/000000/css3.png" title="CSS"/>
     <img src="https://img.icons8.com/color/48/000000/haskell.png" title="Haskell"/>
     <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" title="Java"/>
+    <img src="https://img.icons8.com/color/48/000000/django.png" title="Django"/>
     <img src="https://img.icons8.com/color/48/000000/sql.png" title="SQL"/>
     <img src="https://img.icons8.com/color/48/000000/tensorflow.png" title="TensorFlow & TensorFlow.js"/>
     <img src="https://img.icons8.com/color/48/000000/unreal-engine.png" title="Unreal Engine 4"/>
