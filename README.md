@@ -17,6 +17,8 @@ This page contains extensive information on my skills, background and experience
 If you would like to find out anything more (or less, as this page is quite detailed) about me / get in contact, please check out my LinkedIn:
 
 <a href="https://www.linkedin.com/in/max-woolterton/"><img src="https://img.icons8.com/color/96/000000/linkedin.png"/></a>
+<a href="https://stackoverflow.com/users/17377268/shadowbourne?tab=profile"><img src="https://img.icons8.com/color/96/000000/stackoverflow.png"/></a>
+
 
 # My Technology Stack (hover over for names):
 ### Professional:
