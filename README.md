@@ -175,11 +175,15 @@ I am in my 4th year and due to obtain my MSci (Master of Science) in Mathematics
     * Modeling with Graphs: 100
     * Bioinformatics: 96
 * Computer Systems: 77
-    * Little Man Computer : 71 [Assembly/Machine Code]
-        > ![CS-demo1](https://user-images.githubusercontent.com/18665030/136614083-87eb5ad9-9cff-41c6-bfde-1d50ce7ed109.gif)
-        > 
-        > This demo shows a 99 mailbox assembly code designed to convert an input integer from any input base to any given output base (this was one of my favorite courseworks ever!).
-        > Specifically, this demo shows the "CPU" converting the number 343 from base 10 to base 5 (with output 443). **Note:** there is a lot of computation cut out of this gif!
+    * Digital Electronics
+    * Operating Systems
+    * Databases (Relational)
+    * Computer Architectures:
+        * Little Man Computer : 71 [Assembly/Machine Code]
+            > ![CS-demo1](https://user-images.githubusercontent.com/18665030/136614083-87eb5ad9-9cff-41c6-bfde-1d50ce7ed109.gif)
+            > 
+            > This demo shows a 99 mailbox assembly code designed to convert an input integer from any input base to any given output base (this was one of my favorite courseworks ever!).
+            > Specifically, this demo shows the "CPU" converting the number 343 from base 10 to base 5 (with output 443). **Note:** there is a lot of computation cut out of this gif!
 
 ### Mathematics (66% of year):
 * Linear Algebra: 85
