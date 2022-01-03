@@ -92,7 +92,7 @@ I am in my 4th year and due to obtain my MSci (Master of Science) in Mathematics
 ### Mathematics (17% of year):
 * Mathematical Finance
 ## Third Year 🥉 - 1st (89/100):
->Prize for Outstanding Level 3 Achievement awarded by the Board of Examiners
+>Prize for Outstanding Level 3 Achievement awarded by the Board of Examiners.
 
 
 ### BSc Dissertation/Project:
@@ -137,7 +137,7 @@ I am in my 4th year and due to obtain my MSci (Master of Science) in Mathematics
 
 
 ## Second Year 🥈 - 1st (83/100):
->Prize for Outstanding Level 2 Achievement awarded by the Board of Examiners
+>Prize for Outstanding Level 2 Achievement awarded by the Board of Examiners.
 ### Computer Science (50% of year):
 * Programming Paradigms: 98, 3rd in year. [C, Haskell & Java]
     * Conway's [game-of-life](https://github.com/shadowbourne/game-of-life): 97 [C]
@@ -193,7 +193,7 @@ I am in my 4th year and due to obtain my MSci (Master of Science) in Mathematics
 
 ## Activities and Societies:
 * Captain of College Squash B and C teams.
-* St Cuthbert's Society Darts, Table Tennis, Squash & Pool
+* St Cuthbert's Society Darts, Table Tennis, Squash & Pool.
 
 
 # My Career 💻:
