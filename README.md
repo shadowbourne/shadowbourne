@@ -86,7 +86,7 @@ I am in my 4th year and due to obtain my MSci (Master of Science) in Mathematics
 ### Computer Science (83% of year, including Dissertation):
 * Natural Language Processing
 * Advanced Computer Vision
-* Parallel Scientific Computing II [distributed GPU programming]
+* Parallel Scientific Computing II [distributed memory programming / MPI]
 * Blockchain and Cryptocurrencies
 
 ### Mathematics (17% of year):
