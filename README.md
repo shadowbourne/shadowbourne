@@ -44,6 +44,8 @@ If you would like to find out anything more (or less, as this page is quite deta
     <img src="https://img.icons8.com/color/48/000000/latex.png" title="LaTeX"/>
 </div></center>
 
+<!-- TODO: add palantir job and PETSc + MPI as skills later in year -->
+
 ### Basic:
 <center><div>
     <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" title="AWS"/>
@@ -233,10 +235,10 @@ I am in my 4th year and due to obtain my MSci (Master of Science) in Mathematics
 * 6th Form Academic Scholar.
 * GCSEs: 10 A*s 1 A (with French, Spanish and Latin as languages).
 * A Levels:
-    * A* in Maths (590/600 UMS),
-    * A* in Further Maths (573/600 UMS),
-    * A* in Chemistry (251/270 UMS with an A* boundary of 237/270),
-    * A* in Physics (244/270 UMS, with an A* boundary of 219/270).
+    * A* in Maths (590/600 UMS) - 2nd in year,
+    * A* in Further Maths (573/600 UMS) - 2nd in year,
+    * A* in Chemistry (251/270 UMS with an A* boundary of 237/270) - 1st in year,
+    * A* in Physics (244/270 UMS, with an A* boundary of 219/270) - 1st in year.
 
 * Standalone Qualifications:
     - "Gold with Distinction" for [my "Independent Study" paper on Special Relativity](https://1drv.ms/w/s!And5t2efjgglj29Ia4i4Ch_dBD5n?e=amYSah) (Norwich School's equivalent of a more in-depth EPQ).
