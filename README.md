@@ -195,7 +195,7 @@ I am in my 4th year and due to obtain my MSci (Master of Science) in Mathematics
 
 ## Activities and Societies:
 * Captain of College Squash B and C teams.
-* St Cuthbert's Society Darts, Table Tennis, Squash & Pool.
+* St Cuthbert's Society Darts As and Cs, Table Tennis As, Squash As, Bs and Cs & Pool Ds.
 
 
 # My Career 💻:
@@ -219,7 +219,7 @@ I am in my 4th year and due to obtain my MSci (Master of Science) in Mathematics
 > <img src="https://logos-download.com/wp-content/uploads/2020/06/Durham_University_Logo.png" height="96"/>
 
 * Computer Science Demonstrator / Teaching Assistant - 2 years:
-    * I run three weekly Programming Paradigms Practical groups. During these sessions I teach and assist a group of (~10) second year university students to write code in C, Java and Haskell (depending on the week/group in question).
+    * During my 3rd and 4th years, after having achieved 98 in Programming Paradigms, I was recruited to lead three weekly Programming Paradigms practical groups. During these sessions I taught and assisted a group of (~20) 2nd year university students to write code in C, Java and Haskell.
 ## Lanterne - Jun 2020:
 > <img src="https://lanterne.ai/wp-content/uploads/2021/02/logo_colours-1024x251.png" height="96"/>
 * Data Science Consultant - 5 months:
@@ -242,7 +242,7 @@ I am in my 4th year and due to obtain my MSci (Master of Science) in Mathematics
 
 * Standalone Qualifications:
     - "Gold with Distinction" for [my "Independent Study" paper on Special Relativity](https://1drv.ms/w/s!And5t2efjgglj29Ia4i4Ch_dBD5n?e=amYSah) (Norwich School's equivalent of a more in-depth EPQ).
-        - A paper on Special Relativity, which I submitted for the Independent Study Program ran by Norwich School. The paper explores the many ways it is/could be either possible or impossible to travel faster than "the speed of light", that being either c, when propagating through a vacuum, or some fraction of c when light is propagating through another, optically denser medium. I received a Gold with Distinction my submission.
+        - A paper on Special Relativity, which I submitted for the Independent Study Program ran by Norwich School. The paper explores the many ways it is/could be either possible or impossible to travel faster than "the speed of light", that being either c, when propagating through a vacuum, or some fraction of c when light is propagating through another, optically denser medium. I received a Gold with Distinction for my submission.
     - A (97/100) in OCR Additional Mathematics (boundary was ~59/100).
 * Activities and Societies: Young Leader and Scout at the 8th Norwich Sea Scouts. Karate, Squash, Tennis, Table tennis, School Ski Team, Running, Rugby.
 
