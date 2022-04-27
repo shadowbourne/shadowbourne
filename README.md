@@ -84,15 +84,17 @@ I am in my 4th year and due to obtain my MSci (Master of Science) in Mathematics
 
 ## Fourth Year 🏆 - In Progress:
 ### MSci Dissertation/Project:
-* Zero-shot Image Classification: Teach AI to Recognise Unknown Things
+* Zero-Shot Learning: Towards the Effortless Classification of Mystical Creatures
 ### Computer Science (83% of year, including Dissertation):
 * Natural Language Processing
 * Advanced Computer Vision
 * Parallel Scientific Computing II [distributed memory programming / MPI / PETSc]
-* Blockchain and Cryptocurrencies
+    * Classical beam theory discretisation (Euler-Bernoulli): 81
+    * Parallel Multi-grid + ...: ?
+* Blockchain and Cryptocurrencies: 84
 
 ### Mathematics (17% of year):
-* Mathematical Finance
+* Mathematical Finance [Stochastic Calculus + Integrals, Brownian Motion, Martingales, Financial Derivatives]
 ## Third Year 🥉 - 1st (89/100):
 >Prize for Outstanding Level 3 Achievement awarded by the Board of Examiners.
 
