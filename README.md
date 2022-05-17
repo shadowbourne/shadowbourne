@@ -207,11 +207,16 @@ I am in my 4th year and due to obtain my MSci (Master of Science) in Mathematics
 > For more details on my roles, and non-software-engineering-specific experiences, see my [LinkedIn](https://www.linkedin.com/in/max-woolterton/).
 
 ## Palantir - Jan 2023:
-![palantir](https://user-images.githubusercontent.com/18665030/168860599-8b3c758e-1f24-4ee6-8eb1-16ef2b5098e0.gif)
-<!-- ![palantirsmall](https://user-images.githubusercontent.com/18665030/168861258-58a1be21-0879-452b-9582-37beff50f0cb.gif) -->
-<!-- ![palantirsmallsmall](https://user-images.githubusercontent.com/18665030/168861635-cecfdefe-358b-47bd-89de-02ffe4557e26.gif) -->
+<!-- > <img src="https://user-images.githubusercontent.com/18665030/168862872-2bf2ed5b-320a-423f-b43b-57e23e21c97a.png" height="96"/> -->
+> ![palantir](https://user-images.githubusercontent.com/18665030/168860599-8b3c758e-1f24-4ee6-8eb1-16ef2b5098e0.gif)
+
+
 * Delta - Forward Deployed Engineer.
 
+
+
+<!-- ![palantirsmall](https://user-images.githubusercontent.com/18665030/168861258-58a1be21-0879-452b-9582-37beff50f0cb.gif) -->
+<!-- ![palantirsmallsmall](https://user-images.githubusercontent.com/18665030/168861635-cecfdefe-358b-47bd-89de-02ffe4557e26.gif) -->
 ## IBM - Jun 2021: 
 
 > <img src="https://img.icons8.com/color/96/000000/ibm.png"/>
