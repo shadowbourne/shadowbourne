@@ -90,10 +90,10 @@ I am in my 4th year and due to obtain my MSci (Master of Science) in Mathematics
 * Zero-Shot Learning: Towards the Effortless Classification of Mystical Creatures
 ### Computer Science (83% of year, including Dissertation):
 * Natural Language Processing
-* Advanced Computer Vision
-* Parallel Scientific Computing II [distributed memory programming / MPI / PETSc]
-    * Classical beam theory discretisation (Euler-Bernoulli): 81
-    * Parallel Multi-grid + ...: ?
+* Advanced Computer Vision: 81
+* Parallel Scientific Computing II [distributed memory programming / MPI / PETSc]: 89
+    * Classical beam theory discretisation (Euler-Bernoulli) [20%]: 81
+    * Distributed Memory Multi-grid Solvers (W-Cycles, V-Cycles, Jacobi Relaxation...) [80%]: 91
 * Blockchain and Cryptocurrencies: 84
 
 ### Mathematics (17% of year):
