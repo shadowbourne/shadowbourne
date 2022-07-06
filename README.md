@@ -4,8 +4,8 @@
 
 <img src="hello-max.png" width="199" title="Hello!"/>
 
-### Currently undertaking MSci Natural Sciences: Computer Science and Mathematics.
-> Average up to and including 3rd Year: **1st** - **87/100**
+### I am a Master in Science, having graduated from Durham University with a First Class Honours degree.
+> MSci in Natural Sciences: Computer Science and Mathematics - **1st**, **83/100**
 
 ## Contents:
 This page contains extensive information on my skills, background and experience for any of those who are interested (this page also thereforeacts as a map to my GitHub repositories):
@@ -74,14 +74,14 @@ If you would like to find out anything more (or less, as this page is quite deta
     <img src="https://img.icons8.com/color/48/000000/blender-3d.png" title="Blender 3d"/>
 </div></center>
 
-# My University Degree 🎓:
+# My University Degree 🎓 - 1st (83/100):
 
-I am currently studying Mathematics ➕ Computer Science at Durham University 🎓 under the Natural Sciences program. 
+I studied Mathematics ➕ Computer Science at Durham University 🎓 under the Natural Sciences program. 
 > Within Natural Sciences, you are able to choose exactly what modules you study, from whichever faculties you choose, thereby removing many of the restrictions from "normal" degrees -
 > it is a build-your-own-degree degree and allows you to freely pursue your curiosities within your chosen fields! I would highly recommend. For example, it has allowed me to complete both a Bachelor's and a Master's level Dissertation/Project in Computer Science which normally students are not allowed to do (as it uses too many university resources)!
 
 
-I am in my 4th year and due to obtain my MSci (Master of Science) in Mathematics and Computer Science in August 2022!
+I graduated as a Master in Science with a First Class Honours degree (83/100) in June 2022.
 
 > Additionally, according to the measure employed by Durham University, a Natural Sciences student is the most qualified of any student. ✨
 
