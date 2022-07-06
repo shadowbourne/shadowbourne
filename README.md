@@ -85,21 +85,22 @@ I am in my 4th year and due to obtain my MSci (Master of Science) in Mathematics
 
 > Additionally, according to the measure employed by Durham University, a Natural Sciences student is the most qualified of any student. ✨
 
-## Fourth Year 🏆 - In Progress:
+## Fourth Year 🏆 - 1st (77/100):
 ### MSci Dissertation/Project:
-* Zero-Shot Learning: Towards the Effortless Classification of Mystical Creatures
+* Zero-Shot Learning: Towards the Effortless Classification of Mystical Creatures: 77
 ### Computer Science (83% of year, including Dissertation):
-* Natural Language Processing
 * Advanced Computer Vision: 81
+* Natural Language Processing: 91
+* Blockchain and Cryptocurrencies: 84
 * Parallel Scientific Computing II [distributed memory programming / MPI / PETSc]: 89
     * Classical beam theory discretisation (Euler-Bernoulli) [20%]: 81
     * Distributed Memory Multi-grid Solvers (W-Cycles, V-Cycles, Jacobi Relaxation...) [80%]: 91
-* Blockchain and Cryptocurrencies: 84
+
 
 ### Mathematics (17% of year):
-* Mathematical Finance [Stochastic Calculus + Integrals, Brownian Motion, Martingales, Financial Derivatives]
+* Mathematical Finance [Stochastic Calculus + Integrals, Brownian Motion, Martingales, Financial Derivatives]: 56
 ## Third Year 🥉 - 1st (89/100):
->Prize for Outstanding Level 3 Achievement awarded by the Board of Examiners.
+>Natural Sciences' Prize for Outstanding Level 3 Achievement awarded by the Board of Examiners.
 
 
 ### BSc Dissertation/Project:
@@ -144,7 +145,7 @@ I am in my 4th year and due to obtain my MSci (Master of Science) in Mathematics
 
 
 ## Second Year 🥈 - 1st (83/100):
->Prize for Outstanding Level 2 Achievement awarded by the Board of Examiners.
+>Natural Sciences' Prize for Outstanding Level 2 Achievement awarded by the Board of Examiners.
 ### Computer Science (50% of year):
 * Programming Paradigms: 98, 3rd in year. [C, Haskell & Java]
     * Conway's [game-of-life](https://github.com/shadowbourne/game-of-life): 97 [C]
