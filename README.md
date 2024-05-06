@@ -99,6 +99,8 @@ I graduated as a Master in Science with a First Class Honours degree (83/100) in
 ## Fourth Year 🏆 - 1st (77/100):
 ### MSci Dissertation/Project:
 * Zero-Shot Learning: Towards the Effortless Classification of Mystical Creatures: 77
+  > ![poster](https://github.com/shadowbourne/shadowbourne/assets/18665030/ca8e920e-4964-486e-9dd1-b5ae3e6f84b1)
+
 
 ### Computer Science (83% of year, including Dissertation):
 * Advanced Computer Vision: 81
