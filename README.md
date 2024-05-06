@@ -99,13 +99,17 @@ I graduated as a Master in Science with a First Class Honours degree (83/100) in
 ## Fourth Year 🏆 - 1st (77/100):
 ### MSci Dissertation/Project:
 * Zero-Shot Learning: Towards the Effortless Classification of Mystical Creatures: 77
+
 ### Computer Science (83% of year, including Dissertation):
 * Advanced Computer Vision: 81
+  > ![sidebyside-ezgif com-optimize](https://github.com/shadowbourne/shadowbourne/assets/18665030/37160cc8-5383-46ed-a254-c9f87b3caa25)
 * Natural Language Processing: 91
 * Blockchain and Cryptocurrencies: 84
 * Parallel Scientific Computing II [distributed memory programming / MPI / PETSc]: 89
-    * Classical beam theory discretisation (Euler-Bernoulli) [20%]: 81
-    * Distributed Memory Multi-grid Solvers (W-Cycles, V-Cycles, Jacobi Relaxation...) [80%]: 91
+  > ![PSCII Demo](https://github.com/shadowbourne/shadowbourne/assets/18665030/3812d3c5-c37f-4f1f-91ff-87b6a72a6724)
+    > * Classical beam theory discretisation (Euler-Bernoulli) [20%]: 81
+    > * Distributed Memory Multi-grid Solvers (W-Cycles, V-Cycles, Jacobi Relaxation...) [80%]: 91
+
 
 
 ### Mathematics (17% of year):
