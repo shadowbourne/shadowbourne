@@ -24,8 +24,12 @@ If you would like to find out anything more (or less, as this page is quite deta
 
 
 # My Technology Stack (hover over for names):
+
+
 ### Professional:
+
 <center><div>
+    <img src="https://github.com/shadowbourne/shadowbourne/assets/18665030/a4ed3381-a534-4682-be2b-72ea73293010" width="96" height="96" title="Foundry"/>
     <img src="https://img.icons8.com/color/96/000000/python.png" title="Python"/>
     <img src="https://pytorch.org/assets/images/pytorch-logo.png" width="96" title="PyTorch"/>
     <img src="https://numfocus.org/wp-content/uploads/2016/07/pandas-logo-300.png" width="96" title="Pandas"/>
@@ -35,6 +39,7 @@ If you would like to find out anything more (or less, as this page is quite deta
 
 ### Intermediate:
 <center><div>
+    <img src="https://img.icons8.com/color/48/typescript.png" title="TypeScript"/>
     <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" title="JavaScript"/>
     <img src="https://img.icons8.com/color/48/000000/nodejs.png" title="Node.js"/>
     <img src="https://img.icons8.com/color/48/000000/react-native.png" title="React.js"/>
@@ -42,12 +47,12 @@ If you would like to find out anything more (or less, as this page is quite deta
     <img src="https://img.icons8.com/color/48/000000/mongodb.png" title="MongoDB & Mongoose"/>
     <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" title="C++"/>
     <img src="https://img.icons8.com/fluency/48/000000/c.png" title="C"/>
+    <img src="https://github.com/shadowbourne/shadowbourne/assets/18665030/7c23511f-b75f-4d71-a291-32afe89154a8" width="48" height="48" title="Open MPI"/>    
+    <img src="https://github.com/shadowbourne/shadowbourne/assets/18665030/f2a24328-0003-4d2b-9873-839f5ad5758e" width="48" height="48" title="PETSc"/>
     <img src="https://user-images.githubusercontent.com/50221806/86498227-c985dc00-bd39-11ea-9135-3e82bab6d664.png" width="48" title="NumPy"/>
     <img src="https://img.icons8.com/color/48/000000/git.png" title="Git"/>
     <img src="https://img.icons8.com/color/48/000000/latex.png" title="LaTeX"/>
 </div></center>
-
-<!-- TODO: add palantir job and PETSc + MPI as skills later in year -->
 
 ### Basic:
 <center><div>
@@ -212,7 +217,7 @@ I graduated as a Master in Science with a First Class Honours degree (83/100) in
 > ![palantir](https://user-images.githubusercontent.com/18665030/168860599-8b3c758e-1f24-4ee6-8eb1-16ef2b5098e0.gif)
 
 
-* Delta - Forward Deployed Engineer.
+* Delta - Forward Deployed Engineer / Tech Lead.
 
 
 
@@ -239,7 +244,7 @@ I graduated as a Master in Science with a First Class Honours degree (83/100) in
 * Computer Science Demonstrator / Teaching Assistant - 2 years:
     * During my 3rd and 4th years, after having achieved 98 in Programming Paradigms, I was recruited to lead three weekly Programming Paradigms practical groups. During these sessions I taught and assisted a group of (~20) 2nd year university students to write code in C, Java and Haskell.
 ## Lanterne - Jun 2020:
-> <img src="https://lanterne.ai/wp-content/uploads/2021/02/logo_colours-1024x251.png" height="96"/>
+> <img src="https://lanterne.ai/wp-content/uploads/2023/11/white.png" height="64"/>
 * Data Science Consultant - 5 months:
     * Main Projects:
         - Working on the discovery, scouting and subsequent analysis of the applicability of various data sources to be integrated into global footfall/busyness prediction models ~ 3 months.
