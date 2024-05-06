@@ -32,6 +32,7 @@ If you would like to find out anything more (or less, as this page is quite deta
     <img src="https://github.com/shadowbourne/shadowbourne/assets/18665030/a4ed3381-a534-4682-be2b-72ea73293010" width="96" height="96" title="Foundry"/>
     <img src="https://img.icons8.com/color/96/000000/python.png" title="Python"/>
     <img src="https://pytorch.org/assets/images/pytorch-logo.png" width="96" title="PyTorch"/>
+    <img src="https://github.com/shadowbourne/shadowbourne/assets/18665030/680f6ca3-a2a5-4d19-b35a-dbb68b701f42" width="96" title="Apache PySpark"/>
     <img src="https://numfocus.org/wp-content/uploads/2016/07/pandas-logo-300.png" width="96" title="Pandas"/>
     <img src="https://img.icons8.com/color/96/000000/graphql.png" title="GraphQL"/>
     <img src="https://img.icons8.com/color/96/000000/apollo.png" title="Apollo GraphQL"/>
