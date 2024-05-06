@@ -51,6 +51,7 @@ If you would like to find out anything more (or less, as this page is quite deta
     <img src="https://github.com/shadowbourne/shadowbourne/assets/18665030/7c23511f-b75f-4d71-a291-32afe89154a8" width="48" height="48" title="Open MPI"/>    
     <img src="https://github.com/shadowbourne/shadowbourne/assets/18665030/f2a24328-0003-4d2b-9873-839f5ad5758e" width="48" height="48" title="PETSc"/>
     <img src="https://user-images.githubusercontent.com/50221806/86498227-c985dc00-bd39-11ea-9135-3e82bab6d664.png" width="48" title="NumPy"/>
+    <img src="https://img.icons8.com/color/48/000000/sql.png" title="SQL"/>
     <img src="https://img.icons8.com/color/48/000000/git.png" title="Git"/>
     <img src="https://img.icons8.com/color/48/000000/latex.png" title="LaTeX"/>
 </div></center>
@@ -64,7 +65,6 @@ If you would like to find out anything more (or less, as this page is quite deta
     <img src="https://img.icons8.com/color/48/000000/haskell.png" title="Haskell"/>
     <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" title="Java"/>
     <img src="https://img.icons8.com/color/48/000000/django.png" title="Django"/>
-    <img src="https://img.icons8.com/color/48/000000/sql.png" title="SQL"/>
     <img src="https://img.icons8.com/color/48/000000/tensorflow.png" title="TensorFlow & TensorFlow.js"/>
     <img src="https://img.icons8.com/color/48/000000/unreal-engine.png" title="Unreal Engine 4"/>
     <img src="https://img.icons8.com/fluency/48/000000/unity.png" title="Unity"/>    
