@@ -4,9 +4,9 @@
 
 <img src="hello-max.png" width="199" title="Hello!"/>
 
-### I currently work as a Tech Lead at Palantir <img src="https://github.com/shadowbourne/shadowbourne/assets/18665030/a4ed3381-a534-4682-be2b-72ea73293010" width="36" height="36" title="Palantir"/>
+### I currently work as a Tech Lead at Palantir. <img src="https://github.com/shadowbourne/shadowbourne/assets/18665030/a4ed3381-a534-4682-be2b-72ea73293010" height="32" title="Palantir"/>
 
-### I am a Master in Science, having graduated from Durham University with a First Class Honours degree.
+### I am a Master in Science, having graduated from Durham University with a First Class Honours degree. <img width="32" src="https://img.icons8.com/nolan/64/student-male.png" alt="student"/>
 > MSci in Natural Sciences: Computer Science and Mathematics - **1st**, **83/100**
 
 
