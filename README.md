@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Max, an aspiring Software and Machine Learning Engineer!
+# Hi there 👋 I'm Max, a Software and Machine Learning Engineer!
 <!-- ![image](hello-max.png?v=4&s=100) -->
 <!-- ![hello-max](https://user-images.githubusercontent.com/18665030/136573648-ac04751d-056c-40dd-8fa8-f445645cd93c.png?s=0.5) -->
 
