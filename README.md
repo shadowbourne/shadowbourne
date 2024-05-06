@@ -62,10 +62,11 @@ If you would like to find out anything more (or less, as this page is quite deta
     <img src="https://github.com/shadowbourne/shadowbourne/assets/18665030/267e79de-cd34-4707-8b6c-f0a71a5d4a8c" width="48" height="48" title="Azure Entra ID / AD"/>
     <img src="https://avatars.githubusercontent.com/u/7284885?s=48&v=4" title="IBM Cloud">
     <img src="https://github.com/shadowbourne/shadowbourne/assets/18665030/5d13e139-8b3b-4354-9128-24299de05523" height="48" title="Oracle Fusion Cloud"/>
-    <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" title="HTML-5"/>
-    <img src="https://img.icons8.com/color/48/000000/css3.png" title="CSS"/>
+    <img src="https://github.com/shadowbourne/shadowbourne/assets/18665030/ecb1f9d3-6726-466a-a8c3-52f5f3866375" width="48" height="48" title="Solidity"/>
     <img src="https://img.icons8.com/color/48/000000/haskell.png" title="Haskell"/>
     <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" title="Java"/>
+    <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" title="HTML-5"/>
+    <img src="https://img.icons8.com/color/48/000000/css3.png" title="CSS"/>
     <img src="https://img.icons8.com/color/48/000000/django.png" title="Django"/>
     <img src="https://img.icons8.com/color/48/000000/tensorflow.png" title="TensorFlow & TensorFlow.js"/>
     <img src="https://img.icons8.com/color/48/000000/unreal-engine.png" title="Unreal Engine 4"/>
