@@ -100,13 +100,16 @@ I graduated as a Master in Science with a First Class Honours degree (83/100) in
 ### MSci Dissertation/Project:
 * Zero-Shot Learning: Towards the Effortless Classification of Mystical Creatures: 77
   > ![poster](https://github.com/shadowbourne/shadowbourne/assets/18665030/ca8e920e-4964-486e-9dd1-b5ae3e6f84b1)
-
+  >
+  > * [Poster](https://github.com/shadowbourne/ZSL-KG-Plus/blob/main/Poster.pdf) (shown above), giving an overview of the problem space, the solution, and our results - alongisde a preview of ZSL-KG+'s interactive website.
+  > * Deep dive [Presentation](https://github.com/shadowbourne/ZSL-KG-Plus/blob/main/Presentation.pptx) into our solution and results.
+  > * Full [Academic Paper](https://github.com/shadowbourne/ZSL-KG-Plus/blob/main/Paper.pdf).
 
 ### Computer Science (83% of year, including Dissertation):
 * Advanced Computer Vision: 81
   > ![sidebyside-ezgif com-optimize](https://github.com/shadowbourne/shadowbourne/assets/18665030/37160cc8-5383-46ed-a254-c9f87b3caa25)
   > 
-  > During final assigment we were tasked with transferring the style of a video from video-game-style into 70s movie style. To achieve this I trained a variety of Recycle-GANs from scratch, having to apply extensive state-of-the-art data selection and augmentation techniques using Albumentations to overcome the drastic overfitting in video-to-video style transfer models. Recycle-GAN is a a video-to-video variant of Cycle-GAN that uses spatio-temporal constraints to leverage motion-information from successive frames to reduce perceptual modal-collapse. To train these, I annotated and trained an SVM on joint position confidences extracted using OpenPose to classify humans into different poses, which I then combined with Mask R-CNN to extract, segment and apply pixel-wise segmentation masks of humans to train different Recycle-GANs on different parts of the body (as per the assignment).
+  > During final assigment we were tasked with transferring the style of a video from video-game-style into 70s movie style. To achieve this I trained a variety of Recycle-GANs from scratch, having to apply extensive state-of-the-art data selection and augmentation techniques using Albumentations to overcome the drastic overfitting in video-to-video style transfer models. Recycle-GAN is a video-to-video variant of Cycle-GAN that uses spatio-temporal constraints to leverage motion-information from successive frames to reduce perceptual modal-collapse. To train these, I annotated and trained an SVM on joint position confidences extracted using OpenPose to classify humans into different poses, which I then combined with Mask R-CNN to extract, segment and apply pixel-wise segmentation masks of humans to train different Recycle-GANs on different parts of the body (as per the assignment).
 * Natural Language Processing: 91
 * Blockchain and Cryptocurrencies: 84
 * Parallel Scientific Computing II [distributed memory programming / MPI / PETSc]: 89
