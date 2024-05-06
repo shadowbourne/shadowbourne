@@ -68,19 +68,19 @@ If you would like to find out anything more (or less, as this page is quite deta
     <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" title="HTML-5"/>
     <img src="https://img.icons8.com/color/48/000000/css3.png" title="CSS"/>
     <img src="https://img.icons8.com/color/48/000000/django.png" title="Django"/>
-    <img src="https://img.icons8.com/color/48/000000/tensorflow.png" title="TensorFlow & TensorFlow.js"/>
-    <img src="https://img.icons8.com/color/48/000000/unreal-engine.png" title="Unreal Engine 4"/>
-    <img src="https://img.icons8.com/fluency/48/000000/unity.png" title="Unity"/>    
+    <img src="https://img.icons8.com/color/48/000000/tensorflow.png" title="TensorFlow & TensorFlow.js"/>    
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/WebGL_Logo.svg/1200px-WebGL_Logo.svg.png" width="48" title="WebGL"/>
     <img src="https://github.com/shadowbourne/shadowbourne/assets/18665030/f833f844-017e-464e-abc5-7e70d11e7663" height="48" title="SAP"/>
 <!--     <img src="" width="48" height="48" title=""/> -->
 </div></center>
 
-### Graphic Design / 3D Modelling:
+### Graphic Design / Game Design / 3D Modelling:
 <center><div>
     <img src="https://img.icons8.com/color/48/000000/adobe-after-effects--v2.png" title="Adobe After Effects"/>
     <img src="https://img.icons8.com/color/48/000000/adobe-photoshop--v2.png" title="Adobe Photoshop"/>
     <img src="https://img.icons8.com/color/48/000000/adobe-illustrator--v2.png" title="Adobe Illustrator"/>
+    <img src="https://img.icons8.com/color/48/000000/unreal-engine.png" title="Unreal Engine 4"/>
+    <img src="https://img.icons8.com/fluency/48/000000/unity.png" title="Unity"/>
     <img src="https://img.icons8.com/color/48/000000/cinema-4d.png" title="Cinema 4d"/>
     <img src="https://img.icons8.com/color/48/000000/blender-3d.png" title="Blender 3d"/>
 </div></center>
