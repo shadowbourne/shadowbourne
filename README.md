@@ -61,6 +61,7 @@ If you would like to find out anything more (or less, as this page is quite deta
     <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" title="AWS"/>
     <img src="https://github.com/shadowbourne/shadowbourne/assets/18665030/267e79de-cd34-4707-8b6c-f0a71a5d4a8c" width="48" height="48" title="Azure Entra ID / AD"/>
     <img src="https://avatars.githubusercontent.com/u/7284885?s=48&v=4" title="IBM Cloud">
+    <img src="https://github.com/shadowbourne/shadowbourne/assets/18665030/5d13e139-8b3b-4354-9128-24299de05523" height="48" title="Oracle Fusion Cloud"/>
     <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" title="HTML-5"/>
     <img src="https://img.icons8.com/color/48/000000/css3.png" title="CSS"/>
     <img src="https://img.icons8.com/color/48/000000/haskell.png" title="Haskell"/>
@@ -70,6 +71,8 @@ If you would like to find out anything more (or less, as this page is quite deta
     <img src="https://img.icons8.com/color/48/000000/unreal-engine.png" title="Unreal Engine 4"/>
     <img src="https://img.icons8.com/fluency/48/000000/unity.png" title="Unity"/>    
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/WebGL_Logo.svg/1200px-WebGL_Logo.svg.png" width="48" title="WebGL"/>
+    <img src="https://github.com/shadowbourne/shadowbourne/assets/18665030/f833f844-017e-464e-abc5-7e70d11e7663" height="48" title="SAP"/>
+<!--     <img src="" width="48" height="48" title=""/> -->
 </div></center>
 
 ### Graphic Design / 3D Modelling:
