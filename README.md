@@ -59,6 +59,7 @@ If you would like to find out anything more (or less, as this page is quite deta
 ### Basic:
 <center><div>
     <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" title="AWS"/>
+    <img src="https://github.com/shadowbourne/shadowbourne/assets/18665030/267e79de-cd34-4707-8b6c-f0a71a5d4a8c" width="48" height="48" title="Azure Entra ID / AD"/>
     <img src="https://avatars.githubusercontent.com/u/7284885?s=48&v=4" title="IBM Cloud">
     <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" title="HTML-5"/>
     <img src="https://img.icons8.com/color/48/000000/css3.png" title="CSS"/>
